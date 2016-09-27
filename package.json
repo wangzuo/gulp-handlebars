@@ -4,7 +4,7 @@
   "description": "Handlebars plugin for gulp",
   "main": "index.js",
   "dependencies": {
-    "through2": "^0.6.1",
+    "through2": "^2.0.1",
     "gulp-util": "^3.0.0"
   },
   "peerDependencies": {
@@ -16,10 +16,10 @@
     "gulp-concat": "^2.3.4",
     "gulp-declare": "^0.3.0",
     "gulp-define-module": "^0.1.1",
-    "gulp-wrap": "^0.3.0",
-    "mocha": "^1.21.4",
+    "gulp-wrap": "^0.13.0",
+    "mocha": "^3.0.2",
     "nsdeclare": "^0.1.0",
-    "should": "^4.0.4"
+    "should": "^11.1.0"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
