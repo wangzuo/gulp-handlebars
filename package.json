@@ -19,7 +19,7 @@
     "gulp-wrap": "^0.3.0",
     "mocha": "^1.21.4",
     "nsdeclare": "^0.1.0",
-    "should": "^4.0.4"
+    "should": "^11.1.1"
   },
   "scripts": {
     "test": "./node_modules/.bin/mocha"
