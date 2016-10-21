@@ -15,7 +15,7 @@
     "gulp": "^3.8.7",
     "gulp-concat": "^2.3.4",
     "gulp-declare": "^0.3.0",
-    "gulp-define-module": "^0.1.1",
+    "gulp-define-module": "^0.1.5",
     "gulp-wrap": "^0.3.0",
     "mocha": "^1.21.4",
     "nsdeclare": "^0.1.0",
